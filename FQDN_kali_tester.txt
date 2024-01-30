@@ -1,0 +1,13 @@
+raw.githubusercontent.com
+*.raw.githubusercontent.com
+github.com
+*.github.com
+*.kali.org
+kali.org
+ifconfig.io
+ifconfig.me
+*.files.pythonhosted.org
+files.pythonhosted.org
+*.pypi.org
+pypi.org
+mirror.truenetwork.ru
