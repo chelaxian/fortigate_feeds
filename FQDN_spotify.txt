@@ -1,0 +1,7 @@
+open.spotify.com
+spotifycharts.com
+spotifycodes.com
+spotifynewsroom.jp
+spotify.com
+spoti.fi
+*.spotify.com
